@@ -1,0 +1,6 @@
+/target
+/testdocs
+/dist/
+/RustWord-*.zip
+/samples/e2e-test.docx
+/samples/rustword-banner.png
